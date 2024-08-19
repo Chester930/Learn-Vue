@@ -2,323 +2,277 @@
   {
     "name": "about-us-one",
     "path": "/about-us-one",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/about-us-one.vue",
-    "chunkName": "pages/about-us-one",
-    "_name": "_d5584f24"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\about-us-one.vue",
+    "chunkName": "pages/about-us-one"
   },
   {
     "name": "about-us-three",
     "path": "/about-us-three",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/about-us-three.vue",
-    "chunkName": "pages/about-us-three",
-    "_name": "_124a97a6"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\about-us-three.vue",
+    "chunkName": "pages/about-us-three"
   },
   {
     "name": "about-us-two",
     "path": "/about-us-two",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/about-us-two.vue",
-    "chunkName": "pages/about-us-two",
-    "_name": "_a488ed58"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\about-us-two.vue",
+    "chunkName": "pages/about-us-two"
   },
   {
     "name": "coming-soon",
     "path": "/coming-soon",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/coming-soon.vue",
-    "chunkName": "pages/coming-soon",
-    "_name": "_702853a0"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\coming-soon.vue",
+    "chunkName": "pages/coming-soon"
   },
   {
     "name": "contact-me",
     "path": "/contact-me",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/contact-me.vue",
-    "chunkName": "pages/contact-me",
-    "_name": "_5f584a9c"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\contact-me.vue",
+    "chunkName": "pages/contact-me"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_6dc458a2"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "distant-learning",
     "path": "/distant-learning",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/distant-learning.vue",
-    "chunkName": "pages/distant-learning",
-    "_name": "_1f758361"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\distant-learning.vue",
+    "chunkName": "pages/distant-learning"
   },
   {
     "name": "faq",
     "path": "/faq",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/faq.vue",
-    "chunkName": "pages/faq",
-    "_name": "_1733e36f"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq"
   },
   {
     "name": "gallery-grid",
     "path": "/gallery-grid",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/gallery-grid.vue",
-    "chunkName": "pages/gallery-grid",
-    "_name": "_df0b0950"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\gallery-grid.vue",
+    "chunkName": "pages/gallery-grid"
   },
   {
     "name": "gallery-masonry",
     "path": "/gallery-masonry",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/gallery-masonry.vue",
-    "chunkName": "pages/gallery-masonry",
-    "_name": "_53eda8ba"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\gallery-masonry.vue",
+    "chunkName": "pages/gallery-masonry"
   },
   {
     "name": "kindergarten",
     "path": "/kindergarten",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/kindergarten.vue",
-    "chunkName": "pages/kindergarten",
-    "_name": "_003028bd"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\kindergarten.vue",
+    "chunkName": "pages/kindergarten"
   },
   {
     "name": "kitchen-coach",
     "path": "/kitchen-coach",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/kitchen-coach.vue",
-    "chunkName": "pages/kitchen-coach",
-    "_name": "_7f3f3aca"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\kitchen-coach.vue",
+    "chunkName": "pages/kitchen-coach"
   },
   {
     "name": "landing-demo",
     "path": "/landing-demo",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/landing-demo.vue",
-    "chunkName": "pages/landing-demo",
-    "_name": "_061ae250"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\landing-demo.vue",
+    "chunkName": "pages/landing-demo"
   },
   {
     "name": "my-account",
     "path": "/my-account",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/my-account.vue",
-    "chunkName": "pages/my-account",
-    "_name": "_46820fc3"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\my-account.vue",
+    "chunkName": "pages/my-account"
   },
   {
     "name": "online-academy",
     "path": "/online-academy",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/online-academy.vue",
-    "chunkName": "pages/online-academy",
-    "_name": "_449ceba9"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\online-academy.vue",
+    "chunkName": "pages/online-academy"
   },
   {
     "name": "pricing-table",
     "path": "/pricing-table",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/pricing-table.vue",
-    "chunkName": "pages/pricing-table",
-    "_name": "_97d184c0"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\pricing-table.vue",
+    "chunkName": "pages/pricing-table"
   },
   {
     "name": "privacy-policy",
     "path": "/privacy-policy",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/privacy-policy.vue",
-    "chunkName": "pages/privacy-policy",
-    "_name": "_714f3ece"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\privacy-policy.vue",
+    "chunkName": "pages/privacy-policy"
   },
   {
     "name": "purchase-guide",
     "path": "/purchase-guide",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/purchase-guide.vue",
-    "chunkName": "pages/purchase-guide",
-    "_name": "_7035f667"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\purchase-guide.vue",
+    "chunkName": "pages/purchase-guide"
   },
   {
     "name": "shop",
     "path": "/shop",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/index.vue",
-    "chunkName": "pages/shop/index",
-    "_name": "_5095bab0"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index"
   },
   {
     "name": "terms-condition",
     "path": "/terms-condition",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/terms-condition.vue",
-    "chunkName": "pages/terms-condition",
-    "_name": "_458923ae"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\terms-condition.vue",
+    "chunkName": "pages/terms-condition"
   },
   {
     "name": "university",
     "path": "/university",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/university.vue",
-    "chunkName": "pages/university",
-    "_name": "_3bf14b76"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\university.vue",
+    "chunkName": "pages/university"
   },
   {
     "name": "yoga-instructor",
     "path": "/yoga-instructor",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/yoga-instructor.vue",
-    "chunkName": "pages/yoga-instructor",
-    "_name": "_52e0f61a"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\yoga-instructor.vue",
+    "chunkName": "pages/yoga-instructor"
   },
   {
     "name": "blog-blog-details",
     "path": "/blog/blog-details",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-details.vue",
-    "chunkName": "pages/blog/blog-details",
-    "_name": "_de0d5006"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-details.vue",
+    "chunkName": "pages/blog/blog-details"
   },
   {
     "name": "blog-blog-list",
     "path": "/blog/blog-list",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-list.vue",
-    "chunkName": "pages/blog/blog-list",
-    "_name": "_10d36af3"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-list.vue",
+    "chunkName": "pages/blog/blog-list"
   },
   {
     "name": "blog-blog-masonry",
     "path": "/blog/blog-masonry",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-masonry.vue",
-    "chunkName": "pages/blog/blog-masonry",
-    "_name": "_28faaa80"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-masonry.vue",
+    "chunkName": "pages/blog/blog-masonry"
   },
   {
     "name": "blog-blog-standard",
     "path": "/blog/blog-standard",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/blog/blog-standard.vue",
-    "chunkName": "pages/blog/blog-standard",
-    "_name": "_563fe9dc"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\blog\\\\blog-standard.vue",
+    "chunkName": "pages/blog/blog-standard"
   },
   {
     "name": "course-course-details",
     "path": "/course/course-details",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-details.vue",
-    "chunkName": "pages/course/course-details",
-    "_name": "_8a7e53c6"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-details.vue",
+    "chunkName": "pages/course/course-details"
   },
   {
     "name": "course-course-details-2",
     "path": "/course/course-details-2",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-details-2.vue",
-    "chunkName": "pages/course/course-details-2",
-    "_name": "_0850b402"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-details-2.vue",
+    "chunkName": "pages/course/course-details-2"
   },
   {
     "name": "course-course-details-3",
     "path": "/course/course-details-3",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-details-3.vue",
-    "chunkName": "pages/course/course-details-3",
-    "_name": "_085ecb83"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-details-3.vue",
+    "chunkName": "pages/course/course-details-3"
   },
   {
     "name": "course-course-five",
     "path": "/course/course-five",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-five.vue",
-    "chunkName": "pages/course/course-five",
-    "_name": "_28cdbce7"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-five.vue",
+    "chunkName": "pages/course/course-five"
   },
   {
     "name": "course-course-four",
     "path": "/course/course-four",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-four.vue",
-    "chunkName": "pages/course/course-four",
-    "_name": "_6535795b"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-four.vue",
+    "chunkName": "pages/course/course-four"
   },
   {
     "name": "course-course-one",
     "path": "/course/course-one",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-one.vue",
-    "chunkName": "pages/course/course-one",
-    "_name": "_3fc079c1"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-one.vue",
+    "chunkName": "pages/course/course-one"
   },
   {
     "name": "course-course-three",
     "path": "/course/course-three",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-three.vue",
-    "chunkName": "pages/course/course-three",
-    "_name": "_57d79f8e"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-three.vue",
+    "chunkName": "pages/course/course-three"
   },
   {
     "name": "course-course-two",
     "path": "/course/course-two",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/course/course-two.vue",
-    "chunkName": "pages/course/course-two",
-    "_name": "_58282aa7"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\course\\\\course-two.vue",
+    "chunkName": "pages/course/course-two"
   },
   {
     "name": "event-event-details",
     "path": "/event/event-details",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/event/event-details.vue",
-    "chunkName": "pages/event/event-details",
-    "_name": "_0e08e3b3"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\event\\\\event-details.vue",
+    "chunkName": "pages/event/event-details"
   },
   {
     "name": "event-event-grid",
     "path": "/event/event-grid",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/event/event-grid.vue",
-    "chunkName": "pages/event/event-grid",
-    "_name": "_6a68b1a5"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\event\\\\event-grid.vue",
+    "chunkName": "pages/event/event-grid"
   },
   {
     "name": "event-event-list",
     "path": "/event/event-list",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/event/event-list.vue",
-    "chunkName": "pages/event/event-list",
-    "_name": "_b0af2a06"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\event\\\\event-list.vue",
+    "chunkName": "pages/event/event-list"
   },
   {
     "name": "instructor-instructor-one",
     "path": "/instructor/instructor-one",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-one.vue",
-    "chunkName": "pages/instructor/instructor-one",
-    "_name": "_20e9c981"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-one.vue",
+    "chunkName": "pages/instructor/instructor-one"
   },
   {
     "name": "instructor-instructor-profile",
     "path": "/instructor/instructor-profile",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-profile.vue",
-    "chunkName": "pages/instructor/instructor-profile",
-    "_name": "_720c5c78"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-profile.vue",
+    "chunkName": "pages/instructor/instructor-profile"
   },
   {
     "name": "instructor-instructor-three",
     "path": "/instructor/instructor-three",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-three.vue",
-    "chunkName": "pages/instructor/instructor-three",
-    "_name": "_10288ff9"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-three.vue",
+    "chunkName": "pages/instructor/instructor-three"
   },
   {
     "name": "instructor-instructor-two",
     "path": "/instructor/instructor-two",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/instructor/instructor-two.vue",
-    "chunkName": "pages/instructor/instructor-two",
-    "_name": "_39517a67"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\instructor\\\\instructor-two.vue",
+    "chunkName": "pages/instructor/instructor-two"
   },
   {
     "name": "shop-cart",
     "path": "/shop/cart",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/cart.vue",
-    "chunkName": "pages/shop/cart",
-    "_name": "_6792e4b2"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\cart.vue",
+    "chunkName": "pages/shop/cart"
   },
   {
     "name": "shop-checkout",
     "path": "/shop/checkout",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/checkout.vue",
-    "chunkName": "pages/shop/checkout",
-    "_name": "_068e26d8"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\checkout.vue",
+    "chunkName": "pages/shop/checkout"
   },
   {
     "name": "shop-product-details",
     "path": "/shop/product-details",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/product-details.vue",
-    "chunkName": "pages/shop/product-details",
-    "_name": "_bff5c67c"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\product-details.vue",
+    "chunkName": "pages/shop/product-details"
   },
   {
     "name": "shop-wishlist",
     "path": "/shop/wishlist",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/shop/wishlist.vue",
-    "chunkName": "pages/shop/wishlist",
-    "_name": "_c47f9052"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\shop\\\\wishlist.vue",
+    "chunkName": "pages/shop/wishlist"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/zabidahmed/Desktop/testing/edublink-online-courses-education-vue-nuxt-js-template/edublink/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_69a9d22a"
+    "component": "D:\\\\workspace\\\\learn-vue\\\\edublink-online-courses-education-vue-nuxt-js-template\\\\edublink\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
