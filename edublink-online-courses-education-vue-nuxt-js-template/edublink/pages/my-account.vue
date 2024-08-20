@@ -14,11 +14,11 @@
                             <form @submit.prevent="loginUser">
                                 <div class="form-group">
                                     <label for="current-log-email">Username or email*</label>
-                                    <input type="email" name="current-log-email" v-model="loginForm.email" id="current-log-email" placeholder="Email or username">
+                                    <input type="email" name="email" v-model="loginForm.email" id="current-log-email" placeholder="Email or username">
                                 </div>
                                 <div class="form-group">
                                     <label for="current-log-password">Password*</label>
-                                    <input type="password" name="current-log-password" v-model="loginForm.password" id="current-log-password" placeholder="Password">
+                                    <input type="password" name="password" v-model="loginForm.password" id="current-log-password" placeholder="Password">
                                     <span class="password-show"><i class="icon-76"></i></span>
                                 </div>
                                 <div class="form-group chekbox-area">
@@ -90,6 +90,10 @@
 
 <script>
 import axios from 'axios';
+import axiosapi from "@/plugins/axios.js"
+import useUserStore from "@/store/user.js"
+
+const userStore = useUserStore();
 
 export default {
     components: {
@@ -123,10 +127,18 @@ export default {
                     const response = await axios.post('http://localhost:8080/myapp/user/register', {
                         username: this.registrationForm.name,
                         email: this.registrationForm.email,
-                        pwd: this.registrationForm.password
+                        password: this.registrationForm.password
                     });
-                    this.registrationSuccess = true;
-                    this.registrationMessage = 'Registration successful!';
+                    if (response.data.success) {
+                        this.registrationSuccess = true;
+                        this.registrationMessage = response.data.message;
+                        userStore.setEmail(response.data.email);
+                        userStore.setLogedin(true);
+                        axiosapi.defaults.headers.authorization = "Bearer " + response.data.token;
+                    } else {
+                        this.registrationSuccess = false;
+                        this.registrationMessage = response.data.message;
+                    }
                 } catch (error) {
                     this.registrationSuccess = false;
                     this.registrationMessage = 'Registration failed. Please try again.';
@@ -141,11 +153,21 @@ export default {
                     email: this.loginForm.email,
                     password: this.loginForm.password
                 });
-                this.loginSuccess = true;
-                this.loginMessage = 'Login successful!';
+                if (response.data.success) {
+                    this.loginSuccess = true;
+                    this.loginMessage = response.data.message;
+                    userStore.setEmail(response.data.email);
+                    userStore.setLogedin(true);
+                    axiosapi.defaults.headers.authorization = "Bearer " + response.data.token;
+                    location.href = '/';
+                } else {
+                    this.loginSuccess = false;
+                    this.loginMessage = response.data.message;
+                }
             } catch (error) {
                 this.loginSuccess = false;
                 this.loginMessage = 'Login failed. Please check your credentials.';
+                console.log(error);
             }
         }
     },

@@ -1,5 +1,7 @@
-export default {
+import { defineNuxtConfig } from '@nuxt/bridge'
 
+export default defineNuxtConfig({
+    bridge: false,
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
         title: 'edublink',
@@ -57,7 +59,12 @@ export default {
     // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
     buildModules: [
         '@nuxtjs/style-resources',
-        '@nuxtjs/color-mode'
+        '@nuxtjs/color-mode',
+
+        // 仅支持 Nuxt 2:
+        // https://composition-api.nuxtjs.org/getting-started/setup#quick-start
+        '@nuxtjs/composition-api/module',
+        '@pinia/nuxt',
     ],
 
     styleResources: {
@@ -68,11 +75,14 @@ export default {
 
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
+        '@pinia/nuxt',
+        '@pinia-plugin-persistedstate/nuxt',
     ],
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {
         extend (config, ctx) {},
         transpile: [/^vue2-google-maps($|\/)/]
+        
     }
-}
+})

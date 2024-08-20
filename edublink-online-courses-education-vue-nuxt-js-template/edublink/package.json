@@ -4,19 +4,23 @@
     "author": "DevsBlink",
     "private": true,
     "scripts": {
-        "dev": "nuxt",
-        "build": "nuxt build",
-        "start": "nuxt start",
-        "generate": "nuxt generate"
+        "dev": "nuxt2",
+        "build": "nuxt2 build",
+        "start": "nuxt2 start",
+        "generate": "nuxt2 generate"
     },
     "dependencies": {
+        "@nuxtjs/composition-api": "^0.34.0",
         "@nuxtjs/style-resources": "^1.2.1",
+        "@pinia/nuxt": "^0.2.1",
         "aos": "^2.3.4",
         "axios": "^1.7.4",
         "core-js": "^3.18.2",
         "emailjs-com": "^3.2.0",
-        "nuxt": "^2.15.8",
+        "nuxt": "^2.17.3",
         "parallax-js": "^3.1.0",
+        "pinia": "^2.2.2",
+        "pinia-plugin-persistedstate": "^3.2.1",
         "rellax": "^1.12.1",
         "swiper": "^5.4.5",
         "vue-awesome-swiper": "^4.1.1",
@@ -29,9 +33,12 @@
         "vue2-google-maps": "^0.10.7"
     },
     "devDependencies": {
+        "@nuxt/bridge": "^3.3.1",
         "@nuxtjs/color-mode": "^2.1.1",
+        "@pinia-plugin-persistedstate/nuxt": "^1.2.1",
+        "nuxi": "^3.12.0",
         "sass": "^1.42.1",
-        "sass-loader": "^10.2.0",
+        "sass-loader": "^10.4.1",
         "webpack": "^4.46.0"
     }
 }
