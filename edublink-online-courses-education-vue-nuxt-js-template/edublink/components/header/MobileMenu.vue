@@ -161,6 +161,15 @@
                                     {
                                         url: '/my-account',
                                         title: 'Sign In'
+                                    },
+                                    {
+                                        url: '/login',
+                                        title: '登入'
+                                    },
+                                    {
+                                        url: '/register',
+
+                                        title: '註冊'
                                     }
                                 ]
                             },

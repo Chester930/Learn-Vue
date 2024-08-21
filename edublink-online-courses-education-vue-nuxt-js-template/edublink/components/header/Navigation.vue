@@ -42,6 +42,8 @@
                         <li><n-link to="/privacy-policy">Privacy Policy</n-link></li>
                         <li><n-link to="/terms-condition">Terms & Condition</n-link></li>
                         <li><n-link to="/my-account">Sign In</n-link></li>
+                        <li><n-link to="/login">登入</n-link></li>
+                        <li><n-link to="/register">註冊</n-link></li>
                     </ul>
                 </li>
                 <li>
