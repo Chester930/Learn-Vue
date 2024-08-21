@@ -26,6 +26,7 @@
         "vue-awesome-swiper": "^4.1.1",
         "vue-cool-lightbox": "^2.7.5",
         "vue-count-to": "^1.0.13",
+        "vue-demi": "^0.14.10",
         "vue-inline-svg": "^2.0.0",
         "vue-masonry-css": "^1.0.3",
         "vue-observe-visibility": "^1.0.0",

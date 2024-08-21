@@ -17,9 +17,12 @@ const user = defineStore("user", function() {
     }
 }, {
     persist: {
-        storage: localStorage,
+        storage: (typeof window !== 'undefined') ? localStorage : null,
         paths: ["email", "isLogedin"]
     }
+    
 });
+
+
 
 export default user;
