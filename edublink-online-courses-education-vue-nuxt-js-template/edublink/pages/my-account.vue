@@ -171,7 +171,7 @@
         },
         loginForm: {
           email: "",
-          password: "",
+          pwd: "",
         },
         loginMessage: "",
         loginSuccess: false,
@@ -193,7 +193,7 @@
                 body: JSON.stringify({
                   username: this.registrationForm.name,
                   email: this.registrationForm.email,
-                  password: this.registrationForm.password,
+                  pwd: this.registrationForm.password,
                 }),
               }
             );
@@ -233,7 +233,7 @@
             },
             body: JSON.stringify({
               email: this.loginForm.email,
-              password: this.loginForm.password,
+              pwd: this.loginForm.password,
             }),
           });
   
