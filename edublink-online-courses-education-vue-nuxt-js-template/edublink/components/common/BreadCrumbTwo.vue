@@ -7,7 +7,7 @@
                 </div>
                 <ul class="edu-breadcrumb">
                     <li class="breadcrumb-item">
-                        <n-link to="/">Home</n-link>
+                        <n-link to="/">首頁</n-link>
                     </li>
                     <li class="separator"><i class="icon-angle-right"></i></li>
                     <li class="breadcrumb-item active" aria-current="page">{{ title }}</li>

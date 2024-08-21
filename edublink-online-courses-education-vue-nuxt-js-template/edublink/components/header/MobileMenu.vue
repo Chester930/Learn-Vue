@@ -32,7 +32,7 @@
                 menus: [
                     {
                         url: '',
-                        title: 'Home',
+                        title: '首頁',
                         submenu: [
                             {
                                 url: '/',
@@ -70,7 +70,7 @@
                     },
                     {
                         url: '',
-                        title: 'Pages',
+                        title: '頁面',
                         submenu: [
                             {
                                 url: '',
@@ -203,7 +203,7 @@
                     },
                     {
                         url: '',
-                        title: 'Courses',
+                        title: '課程',
                         submenu: [
                             {
                                 url: '/course/course-one',
@@ -241,7 +241,7 @@
                     },
                     {
                         url: '',
-                        title: 'Blog',
+                        title: '部落格',
                         submenu: [
                             {
                                 url: '/blog/blog-standard',
@@ -263,7 +263,7 @@
                     },
                     {
                         url: '',
-                        title: 'Contact',
+                        title: '聯絡',
                         submenu: [
                             {
                                 url: '/contact-us',

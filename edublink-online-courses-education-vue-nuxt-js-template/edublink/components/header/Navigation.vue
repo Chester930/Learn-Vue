@@ -1,6 +1,6 @@
 <template>
     <ul class="mainmenu">
-        <li class="has-droupdown"><n-link to="">Home</n-link>
+        <li class="has-droupdown"><n-link to="">首頁</n-link>
             <ul class="submenu">
                 <li><n-link to="/">EduBlink Education</n-link></li>
                 <li><n-link to="/distant-learning">Distant Learning</n-link></li>
@@ -12,7 +12,7 @@
                 <li><n-link to="/landing-demo">Landing Demo</n-link></li>
             </ul>
         </li>
-        <li class="has-droupdown"><n-link to="">Pages</n-link>
+        <li class="has-droupdown"><n-link to="">頁面</n-link>
             <ul class="mega-menu">
                 <li>
                     <h6 class="menu-title">Inner Pages</h6>
@@ -59,7 +59,7 @@
             </ul>
         </li>
 
-        <li class="has-droupdown"><n-link to="">Courses</n-link>
+        <li class="has-droupdown"><n-link to="">課程</n-link>
             <ul class="submenu">
                 <li><n-link to="/course/course-one">Course Style 1</n-link></li>
                 <li><n-link to="/course/course-two">Course Style 2</n-link></li>
@@ -72,7 +72,7 @@
             </ul>
         </li>
 
-        <li class="has-droupdown"><n-link to="">Blog</n-link>
+        <li class="has-droupdown"><n-link to="">部落格</n-link>
             <ul class="submenu">
                 <li><n-link to="/blog/blog-standard">Blog Standard</n-link></li>
                 <li><n-link to="/blog/blog-masonry">Blog Masonry</n-link></li>
@@ -80,7 +80,7 @@
                 <li><n-link to="/blog/blog-details">Blog Details</n-link></li>
             </ul>
         </li>
-        <li class="has-droupdown"><n-link to="">Contact</n-link>
+        <li class="has-droupdown"><n-link to="">聯絡</n-link>
             <ul class="submenu">
                 <li><n-link to="/contact-us">Contact Us</n-link></li>
                 <li><n-link to="/contact-me">Contact Me</n-link></li>

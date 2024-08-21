@@ -2,7 +2,7 @@
   <div id="main-wrapper" class="main-wrapper">
     <HeaderOne />
 
-    <BreadCrumbTwo pageTitle="Register" title="Account" />
+    <BreadCrumbTwo pageTitle="註冊" title="註冊" />
 
     <section class="account-page-area section-gap-equal">
       <div class="container position-relative">
@@ -13,7 +13,7 @@
               <p>已經有帳號？ <router-link to="/login">登入</router-link></p>
               <form @submit.prevent="registerUser">
                 <div class="form-group">
-                  <label for="reg-name">姓名*</label>
+                  <label for="reg-name">姓名</label>
                   <input
                     type="text"
                     v-model="registrationForm.name"
@@ -23,7 +23,7 @@
                   />
                 </div>
                 <div class="form-group">
-                  <label for="reg-email">電子郵件*</label>
+                  <label for="reg-email">電子郵件</label>
                   <input
                     type="email"
                     v-model="registrationForm.email"
@@ -33,7 +33,7 @@
                   />
                 </div>
                 <div class="form-group">
-                  <label for="reg-password">密碼*</label>
+                  <label for="reg-password">密碼</label>
                   <input
                     type="password"
                     v-model="registrationForm.password"

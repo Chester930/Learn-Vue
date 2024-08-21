@@ -3,7 +3,7 @@
         
         <HeaderOne />
 
-        <BreadCrumbTwo title='Contact Me' />
+        <BreadCrumbTwo title='聯絡我們' />
         
         <section class="section-gap-equal contact-me-area">
             <div class="container">
@@ -25,19 +25,19 @@
                                 </div>
 
                                 <div class="contact-us-info">
-                                    <h3 class="heading-title">I will Answer all Your Questions</h3>
+                                    <h3 class="heading-title">聯絡資訊</h3>
                                     <ul class="address-list">
                                         <li>
-                                            <h5 class="title">Address</h5>
-                                            <p>Studio 76d, Riley Ford, North Michael chester, CF99 6QQ</p>
+                                            <h5 class="title">地址</h5>
+                                            <p>xxxxx</p>
                                         </li>
                                         <li>
                                             <h5 class="title">Email</h5>
-                                            <p><a href="mailto:edublink@example.com" target="_blank">edublink@example.com</a></p>
+                                            <p><a href="mailto:edublink@example.com" target="_blank">learn@example.com</a></p>
                                         </li>
                                         <li>
-                                            <h5 class="title">Phone</h5>
-                                            <p><a href="tel:+0914135548598">(+091) 413 554 8598</a></p>
+                                            <h5 class="title">電話</h5>
+                                            <p><a href="tel:+0914135548598">(+886) (07)1234567</a></p>
                                         </li>
                                     </ul>
 
@@ -61,7 +61,7 @@
                     <div class="col-lg-8">
                         <div class="contact-form">
                             <div class="section-title section-center">
-                                <h3 class="title">Just Drop Me a Line</h3>
+                                <h3 class="title">留言</h3>
                             </div>
 
                             <form class="rnt-contact-form rwt-dynamic-form" ref="form" @submit.prevent="sendEmail">
@@ -79,7 +79,7 @@
                                         <textarea name="message" cols="30" rows="6" placeholder="Type your message"></textarea>
                                     </div>
                                     <div class="form-group col-12 text-center">
-                                        <button class="rn-btn edu-btn submit-btn" name="submit" type="submit">Submit Now <i class="icon-4"></i></button>
+                                        <button class="rn-btn edu-btn submit-btn" name="submit" type="submit">傳送 <i class="icon-4"></i></button>
                                          <div v-if="showResult" class="col-12 success-msg">
                                             <p>{{ resultText }}</p>
                                         </div> 
